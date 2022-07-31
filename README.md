@@ -17,6 +17,7 @@ The repository consists of some leetcode solutions.
 | 152.   |  Maximum Product Subarray     | [Link1](https://leetcode.com/problems/maximum-product-subarray/) |
 | 160.   |  Intersection of Two Linked Lists     | [Link1](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206.   |  Reverse Linked List     | [Link1](https://leetcode.com/problems/reverse-linked-list/description/) |
+| 237.   |  Delete Node in a Linked List     | [Link1](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 238.   |  Product of Array Except Self     | [Link1](https://leetcode.com/problems/product-of-array-except-self/) |
 | 240.   |  Search a 2D Matrix II     | [Link1](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
 | 242.   |  Valid Anagram     | [Link1](https://leetcode.com/problems/valid-anagram/) |
