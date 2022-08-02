@@ -6,6 +6,7 @@ The repository consists of some leetcode solutions.
 
 | No. | Problem Statement | LeetCode |
 | :---         |     :---:      |          :---: |
+| 1.   | Two Sum     | [Link1](https://leetcode.com/problems/two-sum/)    |
 | 2.   | Add Two Numbers     | [Link1](https://leetcode.com/problems/add-two-numbers/)    |
 | 19.   | Remove Nth Node From End of List     | [Link1](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)    |
 | 20.   |  Valid Parentheses     | [Link1](https://leetcode.com/problems/valid-parentheses/) |
