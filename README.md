@@ -12,6 +12,7 @@ The repository consists of some leetcode solutions.
 | 19.   | Remove Nth Node From End of List     | [Link1](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)    |
 | 20.   |  Valid Parentheses     | [Link1](https://leetcode.com/problems/valid-parentheses/) |
 | 21.   |  Merge Two Sorted Lists     | [Link1](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 42.   |  Trapping Rain Water    | [Link1](https://leetcode.com/problems/trapping-rain-water/) |
 | 48.   |  Rotate Image     | [Link1](https://leetcode.com/problems/rotate-image/description/) |
 | 59.   |  Spiral Matrix II     | [Link1](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 118.   |  Pascal's Triangle     | [Link1](https://leetcode.com/problems/pascals-triangle/)    |
