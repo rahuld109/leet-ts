@@ -1,4 +1,4 @@
-// Brute Force 
+// Brute Force - O(n^2)
 
 function trap(height: number[]): number {
     let totalWater = 0;
@@ -19,3 +19,21 @@ function trap(height: number[]): number {
 };
 
 
+// Optimal Solution - O(n)
+function trap(height: number[]): number {
+    let left = 0, right = height.length - 1, maxLeft = 0, maxRight = 0, total = 0;
+    while(left < right){
+        if(height[left] <= height[right]){
+            if(height[left] >= maxLeft){
+                maxLeft = height[left] 
+            }
+            total += maxLeft - height[left++];
+        }else{
+            if(height[right] >= maxRight){
+                maxRight = height[right]
+            }
+            total += maxRight - height[right--];
+        }
+    }
+    return total
+};
