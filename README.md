@@ -1,7 +1,7 @@
 
-#  Rahul Dogra's LeetCode Solutions - TypeScript
+#  Rahul Dogra's LeetCode Solutions - Typescript
 
-The repository consists of some leetcode solutions.
+The repository consists of some leetcode solutions in Typescript
 ## Table of Content
 
 | No. | Problem Statement | LeetCode |
