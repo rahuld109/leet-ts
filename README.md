@@ -18,6 +18,7 @@ The repository consists of some leetcode solutions.
 | 59.   |  Spiral Matrix II     | [Link1](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 118.   |  Pascal's Triangle     | [Link1](https://leetcode.com/problems/pascals-triangle/)    |
 | 119.   |  Pascal's Triangle II     | [Link1](https://leetcode.com/problems/pascals-triangle-ii/) |
+| 125.   |  Valid Palindrome     | [Link1](https://leetcode.com/problems/valid-palindrome/) |
 | 152.   |  Maximum Product Subarray     | [Link1](https://leetcode.com/problems/maximum-product-subarray/) |
 | 160.   |  Intersection of Two Linked Lists     | [Link1](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206.   |  Reverse Linked List     | [Link1](https://leetcode.com/problems/reverse-linked-list/description/) |
