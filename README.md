@@ -16,6 +16,7 @@ The repository consists of some leetcode solutions in Typescript
 | 42.   |  Trapping Rain Water    | [Link1](https://leetcode.com/problems/trapping-rain-water/) |
 | 48.   |  Rotate Image     | [Link1](https://leetcode.com/problems/rotate-image/description/) |
 | 59.   |  Spiral Matrix II     | [Link1](https://leetcode.com/problems/spiral-matrix-ii/) |
+| 92.   |  Reverse Linked List II     | [Link1](https://leetcode.com/problems/reverse-linked-list-ii/)    |
 | 118.   |  Pascal's Triangle     | [Link1](https://leetcode.com/problems/pascals-triangle/)    |
 | 119.   |  Pascal's Triangle II     | [Link1](https://leetcode.com/problems/pascals-triangle-ii/) |
 | 125.   |  Valid Palindrome     | [Link1](https://leetcode.com/problems/valid-palindrome/) |
