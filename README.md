@@ -10,6 +10,7 @@ The repository consists of some leetcode solutions in Typescript
 | 2.   | Add Two Numbers     | [Link1](https://leetcode.com/problems/add-two-numbers/)    |
 | 3.   | Longest Substring Without Repeating Characters   | [Link1](https://leetcode.com/problems/longest-substring-without-repeating-characters/)    |
 | 11.   |  Container With Most Water    | [Link1](https://leetcode.com/problems/container-with-most-water/) |
+| 13.   |  Roman to Integer    | [Link1](https://leetcode.com/problems/roman-to-integer/) |
 | 19.   | Remove Nth Node From End of List     | [Link1](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)    |
 | 20.   |  Valid Parentheses     | [Link1](https://leetcode.com/problems/valid-parentheses/) |
 | 21.   |  Merge Two Sorted Lists     | [Link1](https://leetcode.com/problems/merge-two-sorted-lists/) |
