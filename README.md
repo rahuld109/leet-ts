@@ -36,6 +36,7 @@ The repository consists of some leetcode solutions in Typescript
 | 387.   |  First Unique Character in a String     | [Link1](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |
 | 409.   |  Longest Palindrome     | [Link1](https://leetcode.com/problems/longest-palindrome/description/) |
 | 415.   |  Add Strings     | [Link1](https://leetcode.com/problems/add-strings/) |
+| 430.   |  Flatten a Multilevel Doubly Linked List    | [Link1](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) |
 | 435.   |  Non-overlapping Intervals     | [Link1](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 560.   |  Subarray Sum Equals K     | [Link1](https://leetcode.com/problems/subarray-sum-equals-k/description/) |
 | 653.   |  Two Sum IV - Input is a BST     | [Link1](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |
