@@ -12,6 +12,7 @@ The repository consists of some leetcode solutions in Typescript
 | 9.   |  Palindrome Number  | [Link1](https://leetcode.com/problems/palindrome-number/) |
 | 11.   |  Container With Most Water    | [Link1](https://leetcode.com/problems/container-with-most-water/) |
 | 13.   |  Roman to Integer    | [Link1](https://leetcode.com/problems/roman-to-integer/) |
+| 14.   |  Longest Common Prefix    | [Link1](https://leetcode.com/problems/longest-common-prefix/) |
 | 19.   | Remove Nth Node From End of List     | [Link1](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)    |
 | 20.   |  Valid Parentheses     | [Link1](https://leetcode.com/problems/valid-parentheses/) |
 | 21.   |  Merge Two Sorted Lists     | [Link1](https://leetcode.com/problems/merge-two-sorted-lists/) |
