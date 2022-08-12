@@ -23,6 +23,7 @@ The repository consists of some leetcode solutions in Typescript
 | 118.   |  Pascal's Triangle     | [Link1](https://leetcode.com/problems/pascals-triangle/)    |
 | 119.   |  Pascal's Triangle II     | [Link1](https://leetcode.com/problems/pascals-triangle-ii/) |
 | 125.   |  Valid Palindrome     | [Link1](https://leetcode.com/problems/valid-palindrome/) |
+| 142.   |  Linked List Cycle    | [Link1](https://leetcode.com/problems/linked-list-cycle/) |
 | 142.   |  Linked List Cycle II     | [Link1](https://leetcode.com/problems/linked-list-cycle-ii/) |
 | 152.   |  Maximum Product Subarray     | [Link1](https://leetcode.com/problems/maximum-product-subarray/) |
 | 160.   |  Intersection of Two Linked Lists     | [Link1](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
