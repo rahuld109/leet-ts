@@ -46,6 +46,7 @@ The repository consists of some leetcode solutions in Typescript
 | 706.   |  Design HashMap     | [Link1](https://leetcode.com/problems/design-hashmap/) |
 | 707.   |  Design Linked List     | [Link1](https://leetcode.com/problems/design-linked-list/) |
 | 876.   |  Middle of the Linked List     | [Link1](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 1249.  |  Minimum Remove to Make Valid Parentheses     | [Link1](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |
 | 1299.  |  Replace Elements with Greatest Element on Right Side     | [Link1](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |
 
 
