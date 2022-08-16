@@ -1,7 +1,7 @@
 
 #  Rahul Dogra's LeetCode Solutions - Typescript
 
-The repository consists of some leetcode solutions in Typescript
+This repository showcases some of the leetcode solutions solved by Rahul Dogra using only Typescript. 
 ## Table of Content
 
 | No. | Problem Statement | LeetCode |
@@ -28,6 +28,7 @@ The repository consists of some leetcode solutions in Typescript
 | 152.   |  Maximum Product Subarray     | [Link1](https://leetcode.com/problems/maximum-product-subarray/) |
 | 160.   |  Intersection of Two Linked Lists     | [Link1](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206.   |  Reverse Linked List     | [Link1](https://leetcode.com/problems/reverse-linked-list/description/) |
+| 232.   |  Implement Queue using Stacks     | [Link1](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 237.   |  Delete Node in a Linked List     | [Link1](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 238.   |  Product of Array Except Self     | [Link1](https://leetcode.com/problems/product-of-array-except-self/) |
 | 240.   |  Search a 2D Matrix II     | [Link1](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
