@@ -19,6 +19,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 42.   |  Trapping Rain Water    | [Link1](https://leetcode.com/problems/trapping-rain-water/) |
 | 48.   |  Rotate Image     | [Link1](https://leetcode.com/problems/rotate-image/description/) |
 | 59.   |  Spiral Matrix II     | [Link1](https://leetcode.com/problems/spiral-matrix-ii/) |
+| 83.   |  Remove Duplicates from Sorted List     | [Link1](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)    |
 | 92.   |  Reverse Linked List II     | [Link1](https://leetcode.com/problems/reverse-linked-list-ii/)    |
 | 118.   |  Pascal's Triangle     | [Link1](https://leetcode.com/problems/pascals-triangle/)    |
 | 119.   |  Pascal's Triangle II     | [Link1](https://leetcode.com/problems/pascals-triangle-ii/) |
