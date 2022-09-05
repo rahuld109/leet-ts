@@ -43,6 +43,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 387.   |  First Unique Character in a String     | [Link1](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |
 | 409.   |  Longest Palindrome     | [Link1](https://leetcode.com/problems/longest-palindrome/description/) |
 | 415.   |  Add Strings     | [Link1](https://leetcode.com/problems/add-strings/) |
+| 429.   |  N-ary Tree Level Order Traversal     | [Link1](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
 | 430.   |  Flatten a Multilevel Doubly Linked List    | [Link1](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) |
 | 435.   |  Non-overlapping Intervals     | [Link1](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 560.   |  Subarray Sum Equals K     | [Link1](https://leetcode.com/problems/subarray-sum-equals-k/description/) |
