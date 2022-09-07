@@ -47,6 +47,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 430.   |  Flatten a Multilevel Doubly Linked List    | [Link1](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) |
 | 435.   |  Non-overlapping Intervals     | [Link1](https://leetcode.com/problems/non-overlapping-intervals/) |
 | 560.   |  Subarray Sum Equals K     | [Link1](https://leetcode.com/problems/subarray-sum-equals-k/description/) |
+| 606.   |  Construct String from Binary Tree    | [Link1](https://leetcode.com/problems/construct-string-from-binary-tree/) |
 | 653.   |  Two Sum IV - Input is a BST     | [Link1](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |
 | 680.   |  Valid Palindrome II     | [Link1](https://leetcode.com/problems/valid-palindrome-ii/) |
 | 706.   |  Design HashMap     | [Link1](https://leetcode.com/problems/design-hashmap/) |
