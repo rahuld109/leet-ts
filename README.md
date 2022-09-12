@@ -54,6 +54,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 707.   |  Design Linked List     | [Link1](https://leetcode.com/problems/design-linked-list/) |
 | 814.   |  Binary Tree Pruning     | [Link1](https://leetcode.com/problems/binary-tree-pruning/) |
 | 876.   |  Middle of the Linked List     | [Link1](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 948.   |  Bag of Tokens     | [Link1](https://leetcode.com/problems/bag-of-tokens/) |
 | 987.   |  Vertical Order Traversal of a Binary Tree     | [Link1](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |
 | 994.   |  Rotting Oranges     | [Link1](https://leetcode.com/problems/rotting-oranges/) |
 | 1249.  |  Minimum Remove to Make Valid Parentheses     | [Link1](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |
