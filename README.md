@@ -39,6 +39,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 242.   |  Valid Anagram     | [Link1](https://leetcode.com/problems/valid-anagram/) |
 | 290.   |  Word Pattern     | [Link1](https://leetcode.com/problems/word-pattern/description/) |
 | 334.   |  Increasing Triplet Subsequence     | [Link1](https://leetcode.com/problems/increasing-triplet-subsequence/) |
+| 336.   |  Palindrome Pairs     | [Link1](https://leetcode.com/problems/palindrome-pairs/) |
 | 383.   |  Ransom Note     | [Link1](https://leetcode.com/problems/ransom-note/) |
 | 387.   |  First Unique Character in a String     | [Link1](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |
 | 409.   |  Longest Palindrome     | [Link1](https://leetcode.com/problems/longest-palindrome/description/) |
