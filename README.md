@@ -20,6 +20,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 48.   |  Rotate Image     | [Link1](https://leetcode.com/problems/rotate-image/description/) |
 | 59.   |  Spiral Matrix II     | [Link1](https://leetcode.com/problems/spiral-matrix-ii/) |
 | 83.   |  Remove Duplicates from Sorted List     | [Link1](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)    |
+| 88.   |  Merge Sorted Array     | [Link1](https://leetcode.com/problems/merge-sorted-array/)    |
 | 92.   |  Reverse Linked List II     | [Link1](https://leetcode.com/problems/reverse-linked-list-ii/)    |
 | 104.   |  Maximum Depth of Binary Tree     | [Link1](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |
 | 118.   |  Pascal's Triangle     | [Link1](https://leetcode.com/problems/pascals-triangle/)    |
