@@ -66,6 +66,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 1249.  |  Minimum Remove to Make Valid Parentheses     | [Link1](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |
 | 1299.  |  Replace Elements with Greatest Element on Right Side     | [Link1](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |
 | 1672.  |  Richest Customer Wealth     | [Link1](https://leetcode.com/problems/richest-customer-wealth/) |
+| 1680.  |  Concatenation of Consecutive Binary Numbers     | [Link1](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) |
 | 1770.  |  Maximum Score from Performing Multiplication Operations     | [Link1](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) |
 | 1996.  |  The Number of Weak Characters in the Game     | [Link1](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) |
 
