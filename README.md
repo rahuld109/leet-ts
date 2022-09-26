@@ -63,6 +63,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 948.   |  Bag of Tokens     | [Link1](https://leetcode.com/problems/bag-of-tokens/) |
 | 985.   |  Sum of Even Numbers After Queries     | [Link1](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) |
 | 987.   |  Vertical Order Traversal of a Binary Tree     | [Link1](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |
+| 990.   |  Satisfiability of Equality Equations     | [Link1](https://leetcode.com/problems/satisfiability-of-equality-equations/) |
 | 994.   |  Rotting Oranges     | [Link1](https://leetcode.com/problems/rotting-oranges/) |
 | 1249.  |  Minimum Remove to Make Valid Parentheses     | [Link1](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |
 | 1299.  |  Replace Elements with Greatest Element on Right Side     | [Link1](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |
