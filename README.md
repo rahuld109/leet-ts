@@ -24,6 +24,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 91.   |  Decode Ways     | [Link1](https://leetcode.com/problems/decode-ways/)    |
 | 92.   |  Reverse Linked List II     | [Link1](https://leetcode.com/problems/reverse-linked-list-ii/)    |
 | 104.   |  Maximum Depth of Binary Tree     | [Link1](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |
+| 112.   |  Path Sum     | [Link1](https://leetcode.com/problems/path-sum/)    |
 | 118.   |  Pascal's Triangle     | [Link1](https://leetcode.com/problems/pascals-triangle/)    |
 | 119.   |  Pascal's Triangle II     | [Link1](https://leetcode.com/problems/pascals-triangle-ii/) |
 | 125.   |  Valid Palindrome     | [Link1](https://leetcode.com/problems/valid-palindrome/) |
