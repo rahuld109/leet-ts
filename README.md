@@ -57,6 +57,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 560.   |  Subarray Sum Equals K     | [Link1](https://leetcode.com/problems/subarray-sum-equals-k/description/) |
 | 606.   |  Construct String from Binary Tree    | [Link1](https://leetcode.com/problems/construct-string-from-binary-tree/) |
 | 609.   |  Find Duplicate File in System    | [Link1](https://leetcode.com/problems/find-duplicate-file-in-system/) |
+| 623.   |  Add One Row to Tree    | [Link1](https://leetcode.com/problems/add-one-row-to-tree/) |
 | 653.   |  Two Sum IV - Input is a BST     | [Link1](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |
 | 680.   |  Valid Palindrome II     | [Link1](https://leetcode.com/problems/valid-palindrome-ii/) |
 | 706.   |  Design HashMap     | [Link1](https://leetcode.com/problems/design-hashmap/) |
