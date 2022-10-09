@@ -62,6 +62,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 680.   |  Valid Palindrome II     | [Link1](https://leetcode.com/problems/valid-palindrome-ii/) |
 | 706.   |  Design HashMap     | [Link1](https://leetcode.com/problems/design-hashmap/) |
 | 707.   |  Design Linked List     | [Link1](https://leetcode.com/problems/design-linked-list/) |
+| 724.   |  Find Pivot Index    | [Link1](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1) |
 | 732.   |  My Calendar III     | [Link1](https://leetcode.com/problems/my-calendar-iii/) |
 | 814.   |  Binary Tree Pruning     | [Link1](https://leetcode.com/problems/binary-tree-pruning/) |
 | 876.   |  Middle of the Linked List     | [Link1](https://leetcode.com/problems/middle-of-the-linked-list/) |
