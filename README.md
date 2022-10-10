@@ -76,6 +76,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 1155.   |  Number of Dice Rolls With Target Sum     | [Link1](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) |
 | 1249.  |  Minimum Remove to Make Valid Parentheses     | [Link1](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |
 | 1299.  |  Replace Elements with Greatest Element on Right Side     | [Link1](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |
+| 1328.  |  Break a Palindrome     | [Link1](https://leetcode.com/problems/break-a-palindrome/) |
 | 1578.  |  Minimum Time to Make Rope Colorful     | [Link1](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |
 | 1672.  |  Richest Customer Wealth     | [Link1](https://leetcode.com/problems/richest-customer-wealth/) |
 | 1680.  |  Concatenation of Consecutive Binary Numbers     | [Link1](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) |
