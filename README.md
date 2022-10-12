@@ -68,6 +68,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 814.   |  Binary Tree Pruning     | [Link1](https://leetcode.com/problems/binary-tree-pruning/) |
 | 876.   |  Middle of the Linked List     | [Link1](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 948.   |  Bag of Tokens     | [Link1](https://leetcode.com/problems/bag-of-tokens/) |
+| 976.   |  Largest Perimeter Triangle     | [Link1](https://leetcode.com/problems/largest-perimeter-triangle/) |
 | 981.   |  Time Based Key-Value Store     | [Link1](https://leetcode.com/problems/time-based-key-value-store/) |
 | 985.   |  Sum of Even Numbers After Queries     | [Link1](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) |
 | 987.   |  Vertical Order Traversal of a Binary Tree     | [Link1](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |
