@@ -83,6 +83,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 1680.  |  Concatenation of Consecutive Binary Numbers     | [Link1](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) |
 | 1770.  |  Maximum Score from Performing Multiplication Operations     | [Link1](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) |
 | 1996.  |  The Number of Weak Characters in the Game     | [Link1](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) |
+| 2095.  |  Delete the Middle Node of a Linked List     | [Link1](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |
 
 
 
