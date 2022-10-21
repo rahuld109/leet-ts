@@ -38,6 +38,7 @@ This repository showcases some of the leetcode solutions solved by Rahul Dogra u
 | 206.   |  Reverse Linked List     | [Link1](https://leetcode.com/problems/reverse-linked-list/description/) |
 | 215.   |  Kth Largest Element in an Array     | [Link1](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 218.   |  The Skyline Problem     | [Link1](https://leetcode.com/problems/the-skyline-problem/) |
+| 219.   |   Contains Duplicate II    | [Link1](https://leetcode.com/problems/contains-duplicate-ii/) |
 | 232.   |  Implement Queue using Stacks     | [Link1](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 237.   |  Delete Node in a Linked List     | [Link1](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 238.   |  Product of Array Except Self     | [Link1](https://leetcode.com/problems/product-of-array-except-self/) |
